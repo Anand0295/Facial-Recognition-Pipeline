@@ -1,4 +1,4 @@
-**Facial Recognition System**
+**Facial Recognition Pipeline**
 
 This project implements a fully functional **Facial Recognition System** using Python, leveraging advanced libraries such as `face_recognition`, `opencv-python`, `dlib`, and `numpy`. The system can identify and recognize faces from images by comparing them to a stored database of known faces. It provides tools for face detection, recognition, and annotation, making it a versatile foundation for applications in security, biometrics, and computer vision.
 
